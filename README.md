@@ -28,7 +28,13 @@ int len(int a)
 }
 
 ```
+<strong>Let's illustrate with an example</strong>: Consider 153 <br>
+for loop 1 :
+ a becomes 15 and count = 1 <br>
+for loop 2: a becomes 1 and count = 2 <br>
+for loop 3: a becomes 0 and count = 3 <br>
 
+and the 4th loop doesn't satisfy a! = 0 and it stop returning length as 3. 
 
 
 
